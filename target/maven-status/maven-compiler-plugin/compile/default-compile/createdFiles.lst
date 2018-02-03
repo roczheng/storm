@@ -1,0 +1,4 @@
+com\storm\wordcount\WordCount$Splitter.class
+com\storm\wordcount\WordCount$Generator.class
+com\storm\wordcount\WordCount$Counter.class
+com\storm\wordcount\WordCount.class
